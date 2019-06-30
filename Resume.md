@@ -2,26 +2,25 @@ Daniel Mikhail
 ============
 
 -------------------     ----------------------------
-dan.mikhail@gmail.com          danmikhail.weebly.com
-217.722.5067                     github.com/mikhaidn
+ [dan.mikhail@gmail.com](mailto:dan.mikhail@gmail.com) |	[danmikhail.weebly.com](danmikhail.weebly.com) | [github.com/mikhaidn](github.com/mikhaidn)
 -------------------     ----------------------------
 
 Education
 ---------
 
-2014-2018
-:   **Bachelor of Science, Computer Science and Computational Science**; Rose-Hulman Institute of Technology (Terre Haute)
+2014 - 2018:
+**Bachelor of Science, Computer Science and Computational Science**;
+Rose-Hulman Institute of Technology (Terre Haute)
 
 Cum laude 3.4 gpa
-
-Courses: Analysis of Algorithms, Numerical Analysis, Data Mining, DevOps, Artificial Intelligence, Comp. Arch., Boundary Value Problems, and Software Design
 
 
 Work Experience
 ----------
-**Verizon Media**, Champaign, IL
-Production Engineer
-LinkedIn work
+Summer 2018 - Current: 
+**Verizon Media**, Champaign, IL - Production Engineer
+
+Collaborate with other engineers to develop and automate the expansion and monitoring of Yahoo's (Verizon Media's) advertisement data pipelines hosted on the largest Hadoop Cluster in the world. Technologies include: Hadoop Ecosystem (Apache HDFS, Oozie, Pig), AWS (Redshift, EC2, SNS) Python, Django and miscellaneous scripting tools.
 
 
 **84.51° - Subsidiary of Kroger**, Cincinnati, OH
@@ -56,7 +55,7 @@ Image Recognition
 
 Natural Language Processing
 * Designed a data structure and search procedure to extract the subject, predicate, and object from sentences using Stanford CoreNLP
-
+	
 Computational Optimization
 * Impellar
 
